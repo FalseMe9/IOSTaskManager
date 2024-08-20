@@ -1,0 +1,5 @@
+school:480
+spiritual:120
+personal:120
+social:120
+daily:120

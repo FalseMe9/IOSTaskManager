@@ -1,0 +1,7 @@
+Fiction : 30
+Non Fiction : 30
+Film : 30
+Personal Remainder : 30
+
+
+

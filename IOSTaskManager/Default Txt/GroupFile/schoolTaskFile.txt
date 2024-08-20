@@ -1,0 +1,5 @@
+coursera:180
+project:120
+code force:60
+work:60
+School Reminder:60

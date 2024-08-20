@@ -1,0 +1,10 @@
+Breakfast :15
+Lunch : 15
+Dinner : 15
+
+Morning Shower : 15
+Night Shower : 15
+
+Scheduling :15
+Cleaning : 30
+

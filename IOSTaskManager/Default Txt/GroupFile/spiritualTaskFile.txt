@@ -1,0 +1,9 @@
+Bible:10
+Worship:10
+Meditate:10
+
+Alkitab:10
+Pujian:10
+Meditate:10
+
+Spiritual Reminder:60
